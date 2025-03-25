@@ -1,6 +1,6 @@
 # Instrukcja uruchomienia kontenera
 ## Budowanie obrazu
-Aby zbudowac kontener nalezy uzyc tej komendy::
+Aby zbudowac kontener nalezy uzyc tej komendy:
 ```sh
 docker build --build-arg VERSION="<numer_wersji>" -t <nazwa_obrazu> .
 ```
